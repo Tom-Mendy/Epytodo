@@ -25,9 +25,16 @@ We have done front-end but it isn't link to the back-end
 
 A list of technologies used within the project:
 
+### Back
+
 * [NodeJS](https://nodejs.org)
 * [ExpressJS](https://expressjs.com/)
 * [MySQL](https://www.mysql.com/)
+
+### Front
+
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ## Installation
 
@@ -37,7 +44,7 @@ A little intro about the installation.
 ```r
 git clone git@github.com:Tom-Mendy/Epytodo.git
 cd Epytodo
-#import epytodo.sql to you database
+#import epytodo.sql to your database
 node src/index.js
 ```
 
